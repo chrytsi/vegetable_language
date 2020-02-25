@@ -12,6 +12,7 @@ The subjects of this study are a naive student looking for credits, and a pumpki
 
 Results
 
+The student was starving because it was almost lunch time.
 
 Discussion
 
