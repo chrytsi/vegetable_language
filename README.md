@@ -7,7 +7,7 @@ We replicated the results of this nice study.
 
 Methods
 
-The subject of this study are a naive student looking for credits and a naive pumpkin not knowing what was happening.
+The subject of this study are a naive student looking for credits and a naive pumpkin.
 
 Results
 
