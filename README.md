@@ -2,6 +2,8 @@
 
 Introduction
 
+We replicated the results of this nice study.
+
 
 Methods
 
